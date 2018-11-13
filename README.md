@@ -1,1 +1,1 @@
-# mbd
+# Mammals Biological Database
